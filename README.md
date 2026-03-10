@@ -12,15 +12,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=icode-in&label=Profile%20views&color=0e75b6&style=flat&label=Visitors" alt="icode-in" />
-  <img src="https://img.shields.io/github/followers/icode-in?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/icode-in?label=Stars&style=social" alt="stars" />
-</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=icode-in&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
@@ -31,7 +25,7 @@
 - 🌱 I’m currently learning **Pearson B-Tech HND - Data Science**
 - 💻 I love building innovative solutions and exploring new technologies
 - ⚡ Fun fact **call me as Hiru**
-- 📫 How to reach me: **hirunfernzz313@gmail.com**
+- 📫 How to reach me: **[Add your email here]**
 - 🎯 2024 Goals: Contribute more to Open Source projects
 
 </td>
@@ -108,9 +102,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GitHub Stats**
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=icode-in&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="icode-in github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icode-in&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icode-in&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" />
@@ -119,18 +111,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/[your-twitter]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/[your-instagram]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/-Hirun_Fernando-0e75b6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </p>
 
 <div align="center">
@@ -140,12 +121,10 @@
 ---
 
 <div align="center">
-  <h3>🎵 Now Playing on Spotify</h3>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.verget.tech/api/generate?uid=YOUR_SPOTIFY_ID&section=now-playing&theme=default" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" />
+  <h4>Thanks for visiting my profile! Have a great day! ✨</h4>
 </div>
