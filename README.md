@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Hirun+Fernando;+A+Passionate+System+Developer;+From+Sri+Lanka+🇱🇰" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Hirun+Fernando;" />
 </h1>
 
 <div align="center">
@@ -24,8 +24,8 @@
 
 - 🌱 I’m currently learning **Pearson B-Tech HND - Data Science**
 - 💻 I love building innovative solutions and exploring new technologies
-- ⚡ Fun fact **call me as Hiru**
-- 📫 How to reach me: **[Add your email here]**
+- ⚡ Fun fact **call me as fernzz**
+- 📫 How to reach me: **hirunfernz313@gmail.com**
 - 🎯 2024 Goals: Contribute more to Open Source projects
 
 </td>
