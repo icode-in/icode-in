@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" width="30" /> 
-  A passionate system developer from Sri Lanka
+  Let's turn innovative ideas to productive solutions
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h3>
 
