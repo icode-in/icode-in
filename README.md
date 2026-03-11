@@ -26,7 +26,7 @@
 - 💻 I love building innovative solutions and exploring new technologies
 - ⚡ Fun fact **call me as fernzz**
 - 📫 How to reach me: **hirunfernz313@gmail.com**
-- 🎯 2024 Goals: Contribute more to Open Source projects
+- 🎯 2026 Goals: Contribute more to Open Source projects
 
 </td>
 <td width="40%">
